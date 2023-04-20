@@ -75,6 +75,11 @@ Here you can find a preview of all the themes.
 
 ## Windows 11
 
+### A Silent Voice 1
+
+![A Silent Voice 1](Windows%2011/A%20Silent%20Voice%201%20Theme/Wallpaper.jpg)
+
+
 ### Eliaria
 
 ![Eliaria](Windows%2011/Eliaria%20Theme/Wallpaper.jpg)
