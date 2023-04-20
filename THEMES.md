@@ -4,6 +4,10 @@ Here you can find a preview of all the themes.
 
 ## Windows 10
 
+### A Silent Voice 1
+
+![A Silent Voice 1](Windows%2010/A%20Silent%20Voice%201%20Theme/Wallpaper.jpg)
+
 ### Eliaria
 
 ![Eliaria](Windows%2010/Eliaria%20Theme/Wallpaper.jpg)
