@@ -2,7 +2,7 @@
 
 This is a collection of themes for [BDC]([https://github.com/spicetify/spicetify-cli](https://betterdiscord.app)).
 
-### **You can find a preview of all the themes in [THEMES.md](./THEMES.md).**
+### **You can find a preview of all the Backgrounds in [THEMES.md](./THEMES.md).**
 
 ## Notes:
 
