@@ -16,5 +16,5 @@ This is a collection of themes for [BDC]([https://github.com/spicetify/spicetify
 
 
 ## Latest Version:
-*	**Windows 10: 0.0.0**
+*	**Windows 10: 1.5.0**
 *	**Windows 11: 1.5.0**
