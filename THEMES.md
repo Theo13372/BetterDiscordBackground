@@ -6,6 +6,6 @@ Here you can find a preview of all the themes.
 
 ## Eliaria
 
-![Eliaria](Windows%2011/Eliaria/Wallpaper.jpg)
+![Eliaria](Windows%2011/Eliaria%20Theme/Wallpaper.jpg)
 
 Not FINISHED
