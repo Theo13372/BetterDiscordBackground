@@ -1,6 +1,6 @@
 # BetterDiscord themes
 
-This is a collection of themes for [BDC]([https://github.com/spicetify/spicetify-cli](https://betterdiscord.app)).
+This is a collection of themes for [BetterDC](https://betterdiscord.app).
 
 ### **You can find a preview of all the Backgrounds in [THEMES.md](./THEMES.md).**
 
