@@ -8,6 +8,10 @@ Here you can find a preview of all the themes.
 
 ![A Silent Voice 1](Windows%2010/A%20Silent%20Voice%201%20Theme/Wallpaper.jpg)
 
+### A Silent Voice 2
+
+![A Silent Voice 2](Windows%2010/A%20Silent%20Voice%202%20Theme/Wallpaper.jpg)
+
 ### Eliaria
 
 ![Eliaria](Windows%2010/Eliaria%20Theme/Wallpaper.jpg)
@@ -83,6 +87,9 @@ Here you can find a preview of all the themes.
 
 ![A Silent Voice 1](Windows%2011/A%20Silent%20Voice%201%20Theme/Wallpaper.jpg)
 
+### A Silent Voice 2
+
+![A Silent Voice 2](Windows%2011/A%20Silent%20Voice%202%20Theme/Wallpaper.jpg)
 
 ### Eliaria
 
