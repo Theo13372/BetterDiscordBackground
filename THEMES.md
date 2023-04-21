@@ -1,6 +1,8 @@
 # Themes preview
 
 Here you can find a preview of all the themes.
+* **[Windows 10](Windows%2010/)**
+* **[Windows 11](Windows%2011/)**
 
 ## [Windows 10](Windows%2010/)
 
