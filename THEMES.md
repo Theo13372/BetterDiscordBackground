@@ -2,7 +2,7 @@
 
 Here you can find a preview of all the themes.
 
-## Windows 10
+## [Windows 10](Windows%2010/)
 
 ### [A Silent Voice 1](Windows%2010/A%20Silent%20Voice%201%20Theme/)
 
@@ -81,7 +81,7 @@ Here you can find a preview of all the themes.
 ![Yue](Windows%2010/Yue%20Theme/Wallpaper.jpg)
 
 
-## Windows 11
+## [Windows 11](Windows%2011/)
 
 ### [A Silent Voice 1](Windows%2011/A%20Silent%20Voice%201%20Theme/)
 
