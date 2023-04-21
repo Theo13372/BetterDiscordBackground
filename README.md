@@ -16,5 +16,5 @@ This is a collection of themes for [BetterDC](https://betterdiscord.app).
 
 
 ## Latest Version:
-*	**[Windows10](Windows%2010/): 1.5.0**
-*	**[Windows 11[(Windows%2011/): 1.5.0**
+*	**[Windows 10](Windows%2010/): 1.5.0**
+*	**[Windows 11](Windows%2011/): 1.5.0**
