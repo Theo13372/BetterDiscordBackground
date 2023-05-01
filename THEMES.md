@@ -86,6 +86,10 @@ Here you can find a preview of all the themes.
 
 ![Wallpaper 6](Windows%2010/Wallpaper%206%20Theme/Wallpaper.jpg)
 
+### [Wallpaper 7](Windows%2010/Wallpaper%207%20Theme/)
+
+![Wallpaper 7](Windows%2010/Wallpaper%207%20Theme/Wallpaper.jpg)
+
 ### [Yue](Windows%2010/Yue%20Theme/)
 
 ![Yue](Windows%2010/Yue%20Theme/Wallpaper.jpg)
@@ -172,6 +176,10 @@ Here you can find a preview of all the themes.
 ### [Wallpaper 6](Windows%2011/Wallpaper%206%20Theme/)
 
 ![Wallpaper 6](Windows%2011/Wallpaper%206%20Theme/Wallpaper.jpg)
+
+### [Wallpaper 7](Windows%2011/Wallpaper%207%20Theme/)
+
+![Wallpaper 7](Windows%2011/Wallpaper%207%20Theme/Wallpaper.jpg)
 
 ### [Yue](Windows%2011/Yue%20Theme/)
 
