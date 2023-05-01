@@ -38,6 +38,10 @@ Here you can find a preview of all the themes.
 
 ![Nanika](Windows%2010/Nanika%20Theme/Wallpaper.jpg)
 
+### [Redo of Healer 1](Windows%2010/Redo%20of%20Healer%201%20Theme/)
+
+![Redo of Healer 1](Windows%2010/Redo%20of%20Healer%201%20Theme/Wallpaper.jpg)
+
 ### [Rem 6](Windows%2010/Rem%206%20Theme/)
 
 ![Rem 6](Windows%2010/Rem%206%20Theme/Wallpaper.jpg)
@@ -128,6 +132,11 @@ Here you can find a preview of all the themes.
 ### [Nanika](Windows%2011/Nanika%20Theme/)
 
 ![Nanika](Windows%2011/Nanika%20Theme/Wallpaper.jpg)
+
+### [Redo of Healer 1](Windows%2011/Redo%20of%20Healer%201%20Theme/)
+
+![Redo of Healer 1](Windows%2011/Redo%20of%20Healer%201%20Theme/Wallpaper.jpg)
+
 
 ### [Rem 6](Windows%2011/Rem%206%20Theme/)
 
