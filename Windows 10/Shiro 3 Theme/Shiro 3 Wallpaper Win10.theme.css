@@ -1,14 +1,14 @@
 /**
- * @name Wallpaper 5
+ * @name Shiro 3 Wallpaper
  * @author Theo13372#6430
- * @version 1.5.0
+ * @version 1.7.0
  * @description Theme is optimized for Windows 10 Taskbar
  * @authorId 623494928932143104
 
 */
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 :root {
-  --background-image:  url(https://i.imgur.com/78bHXlv.jpg);
+  --background-image:  url(https://raw.githubusercontent.com/Theo13372/BetterDiscordBackground/main/Windows%2010/Shiro%203%20Theme/Discord.jpg);
   --background-image-blur:  0px;
   --background-image-size: cover;
   --background-image-position: center;
