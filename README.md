@@ -7,7 +7,7 @@ This is a collection of themes for [BetterDC](https://betterdiscord.app).
 ## Notes:
 
 *   **These themes require that you have the latest version of Discord and BetterDiscord.**
-*	**WIndows 10 and Windows 11 have the same Background only the size is not the same.**
+*	**Windows 10 and Windows 11 have the same Background only the size is not the same.**
 
 ## Installation and usage
 
