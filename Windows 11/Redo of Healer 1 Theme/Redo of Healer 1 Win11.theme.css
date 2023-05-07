@@ -1,14 +1,14 @@
 /**
- * @name Wallpaper 4
+ * @name Redo of Healer 1
  * @author Theo13372#6430
- * @version 1.5.0
+ * @version 1.7.0
  * @description Theme is optimized for Windows 11 Taskbar
  * @authorId 623494928932143104
 
 */
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 :root {
-  --background-image:  url(https://i.imgur.com/6xFJuGL.jpg);
+  --background-image:  url(https://raw.githubusercontent.com/Theo13372/BetterDiscordBackground/main/Windows%2011/Redo%20of%20Healer%201%20Theme/Discord.jpg);
   --background-image-blur:  0px;
   --background-image-size: cover;
   --background-image-position: center;
