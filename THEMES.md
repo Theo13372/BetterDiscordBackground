@@ -176,7 +176,7 @@ Here you can find a preview of all the themes.
 
 ### [The Girl i Like Forgot her Glasses 1](Windows%2011/The%20Girl%20i%20Like%20Forgot%20her%20Glasses%201%20Theme)
 
-![The Girl i Like Forgot her Glasses 1](Windows%2011/The%20Girl%20i%20Like%20Forgot%20her%20Glasses%201%20Theme)
+![The Girl i Like Forgot her Glasses 1](Windows%2011/The%20Girl%20i%20Like%20Forgot%20her%20Glasses%201%20Theme/Wallpaper.jpg)
 
 ### [Wallpaper 1](Windows%2011/Wallpaper%201%20Theme/)
 
