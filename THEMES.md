@@ -121,6 +121,18 @@ Here you can find a preview of all the themes.
 
 ![Eliaria](Windows%2011/Eliaria%20Theme/Wallpaper.jpg)
 
+### [Jobless Reincarnation 1](Windows%2011/Eliaria%20Theme/)
+
+![Jobless Reincarnation 1](Windows%2011/Jobless%20Reincarnation%201%20Theme/Wallpaper.jpg)
+
+### [Jobless Reincarnation 2](Windows%2011/Eliaria%20Theme/)
+
+![Jobless Reincarnation 2](Windows%2011/Jobless%20Reincarnation%202%20Theme/Wallpaper.jpg)
+
+### [Jobless Reincarnation 3](Windows%2011/Eliaria%20Theme/)
+
+![Jobless Reincarnation 3](Windows%2011/Jobless%20Reincarnation%203%20Theme/Wallpaper.jpg)
+
 ### [Kakeguri](Windows%2011/Kakeguri%20Theme/)
 
 ![Kakeguri](Windows%2011/Kakeguri%20Theme/Wallpaper.jpg)
