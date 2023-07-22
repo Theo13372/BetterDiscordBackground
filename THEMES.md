@@ -117,6 +117,10 @@ Here you can find a preview of all the themes.
 
 ![A Silent Voice 3](Windows%2011/A%20Silent%20Voice%203%20Theme/Wallpaper.jpg)
 
+### [Anime Girl 1](Windows%2011/Anime%20Girl%201%20Theme/)
+
+![Anime Girl 1](Windows%2011/Anime%20Girl%201%20Theme/Wallpaper.jpg)
+
 ### [Eliaria](Windows%2011/Eliaria%20Theme/)
 
 ![Eliaria](Windows%2011/Eliaria%20Theme/Wallpaper.jpg)
